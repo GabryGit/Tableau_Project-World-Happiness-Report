@@ -1,5 +1,8 @@
 # Tableau Project: World Happiness Report
 
+Here you can find the dashboard published on my Tableau Public profile: [[Tableau Public Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/WorldHappinessReport_17508864371150/Dashboard1)
+
+
 ### Table of Contents
 
 - [Project Overview](#project-overview)
