@@ -2,6 +2,7 @@
 
 You can find the dashboard published on my Tableau Public profile: [[Tableau Public Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/WorldHappinessReport_17508864371150/Dashboard1)
 
+![Dashboaard.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Dashboard.png)
 
 ### Table of Contents
 
@@ -57,17 +58,27 @@ You find the datasest ready to be imported in Tableau [[here]](https://github.co
 
 The project features a suite of interactive visualizations:
 
-- Interactive Controls: Users can filter the data by geographical region and year.
+- *Interactive Controls*: Users can filter the data by geographical region and year.
+  
+![controls.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Controls.png)
 
-- Choropleth Map: A color-coded map displays the happiness scores of nations, with detailed tooltips revealing the values of the contributing factors for each country.
+- *Choropleth Map and Ranked Table*: A color-coded map displays the happiness scores of nations, with detailed tooltips revealing the values of the contributing factors for each country.
+                                 Below the map, a table highlights the top and bottom 10 countries in terms of happiness.
+  
+![Cloropleth_map.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Cloropleth_map.png)
 
-- Ranked Table: Below the map, a table highlights the top and bottom 10 countries in terms of happiness.
+- *Trend Analysis*: A bar chart illustrates the happiness score trend over the five-year period, allowing users to identify countries with significant improvements or declines.
+  
+![Trend.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Trend.png)
 
-- Trend Analysis: A bar chart illustrates the happiness score trend over the five-year period, allowing users to identify countries with significant improvements or declines.
+- *Distribution Analysis*: A box plot visualizes the distribution of happiness scores, showing the median, quartiles, and any outliers.
+  
+![Distribution.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Distribution.png)
 
-- Distribution Analysis: A box plot visualizes the distribution of happiness scores, showing the median, quartiles, and any outliers.
+- *Categorization*: A pie chart categorizes countries into three happiness levels, based on the dataset's median score.
+  
+![Donut.png](https://github.com/GabryGit/Tableau_Project-World-Happiness-Report/blob/main/Dashboard%20details/Donut.png)
 
-- Categorization: A pie chart categorizes countries into three happiness levels, based on the dataset's median score.
 
 This dashboard offers a clear and intuitive way to explore complex data, providing actionable insights for policymakers and anyone interested in understanding the dynamics of global well-being.
 
